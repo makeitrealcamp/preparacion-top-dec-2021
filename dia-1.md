@@ -16,3 +16,8 @@ Evaluar las expresiones y mostrar el resultado:
 ```
 10 <= (5 + 4) y 100 igual a "100"
 ```
+
+Mostrar un elemento con un tipo de dato:
+- Lógico
+- Numérico
+- Cadena
