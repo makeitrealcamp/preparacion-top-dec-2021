@@ -5,6 +5,14 @@
 - Valor del descuento aplicado al artículo (24%)
 - Valor final del artículo al restar el valor del descuento
 
+Ejemplo:
+```
+Valor del artículo iongresado por el usuario: 100000
+Valor del artículo: 100000
+Valor del descuento: 24000
+Valor final: 76000
+```
+
 2.El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor que determina la cantidad de grasa de una persona.
 
 El BMI se calcula con la siguiente fórmula:
