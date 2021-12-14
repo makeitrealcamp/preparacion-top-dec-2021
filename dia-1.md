@@ -2,7 +2,7 @@
 
 Evaluar las expresiones y mostrar el resultado:
 ```
-(401 igual a “401”) y T | F o F | (F y V) o F o F o T o (10 menor que 5) | (404 igual a “404”)
+(401 igual a “401”) y T o F o F y (F y V) o F o F o T o (10 menor que 5) o (404 igual a “404”)
 ```
 
 ```
