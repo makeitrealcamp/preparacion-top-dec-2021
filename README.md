@@ -51,8 +51,11 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Día 2](dia-2.md)
 
 ## Sesiones grabadas
-- [Sesión 1](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-14/sH75eIj5O.mp4) | [Replit](https://replit.com/@jestrade/Dia-1#index.js) 
-- [Sesión 2](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-15/gmyZ8k0zC.mp4) | [Replit](https://replit.com/@jestrade/Dia-2#index.js) 
+- [Sesión 1](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-14/sH75eIj5O.mp4) | [Replit](https://replit.com/@jestrade/Dia-1#index.js)
+- [Sesión 2](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-15/gmyZ8k0zC.mp4) | [Replit](https://replit.com/@jestrade/Dia-2#index.js)
 - Sesión 3 | Replit
 - Sesión 4 | Replit
 - Sesión 5 | Replit
+
+## Déjanos saber que hiciste el curso
+Llena el siguiente formulario para que la persona que evalúe tu prueba técnica y entrevista sepa que hiciste el curso de preparación. [Informar que hice el curso de preparación](https://forms.gle/vSkhTcRKKPKKT1NL9)
