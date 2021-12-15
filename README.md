@@ -50,7 +50,7 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Día 1](dia-1.md)
 - [Día 2](dia-2.md)
 
-## Sesiones
+## Sesiones grabadas
 - [Sesión 1](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-14/sH75eIj5O.mp4) | [Replit](https://replit.com/@jestrade/Dia-1#index.js) 
 - [Sesión 2](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-15/gmyZ8k0zC.mp4) | [Replit](https://replit.com/@jestrade/Dia-2#index.js) 
 - Sesión 3 | Replit
