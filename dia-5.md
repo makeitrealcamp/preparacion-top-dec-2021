@@ -141,11 +141,6 @@ function agregar(arr, num) {
 
 Seguramnete en las entrevistas técnicas tu evaluador te pedirá que implementes un ciclo tradicional *for loop* para validar que sabes hacerlo. 
 
-## Mutar el objeto orinal
-
-Es una mala práctica mutar (modificar) un objeto que pasas como parámetro y retornarlo. Si se te pide en la función retornar un valor, y este valor es un tipo de dato compuesto (por ejemplo un arreglo o un objeto), crea uno nuevo para retornarlo. 
-
-
 ## Otros errores "tontos" que rompen tu código
 
 * No cerrar un corchete o una llave. Se generará un error de systaxis. 
