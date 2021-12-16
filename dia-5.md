@@ -9,10 +9,12 @@ Normalmente se te pedirá que escribas una función que retorne algo. Un error c
 Por ejemplo. Si se te pidiera escribir una función llamada `suma` que retorne la sumatoria de `x` y `y`, dos valores que recibe como parámetro, una respuesta errada sería la siguiente:
 
 ```js
-return x + y;
+var x = prompt("Ingresa X")
+var y = prompt("Ingresa Y")
+console.log(x + y);
 ```
 
-En la respuesta anterior no estás declarando una función de JavaScript, y el correr este código generaría un error de sintaxis.
+En la respuesta anterior no estás declarando una función de JavaScript como se pide en el ejercicio, estás escribiendo un programa que sólo funcionaría en el navegador (el prompt en el navegador abre una ventana para pedirle una entrada al usuario).
 
 Una respuesta correcta sería:
 
