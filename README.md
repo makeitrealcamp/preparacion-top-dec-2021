@@ -58,7 +58,7 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Sesión 2](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-15/gmyZ8k0zC.mp4) | [Replit](https://replit.com/@jestrade/Dia-2#index.js)
 - [Sesión 3](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-16/sYwptsibQ.mp4) | [Replit](https://replit.com/@jestrade/Dia-3#index.js)
 - [Sesión 4](https://makeitreal.s3.amazonaws.com/videos/85617582069/2021-12-17/c_O9B0dof.mp4) | [Replit](https://replit.com/@jestrade/Dia-4#index.js)
-- Sesión 5 | Replit | Errores Comunes | Proceso PACER
+- Sesión 5 | [Errores Comunes](errores-comunes.md) | [Proceso de solucion de problemas](proceso-para-resolver-problemas.md)
 
 ## Déjanos saber que hiciste el curso
 Llena el siguiente formulario para que la persona que evalúe tu prueba técnica y entrevista sepa que hiciste el curso de preparación. [Informar que hice el curso de preparación](https://forms.gle/vSkhTcRKKPKKT1NL9)
